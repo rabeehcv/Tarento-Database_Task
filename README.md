@@ -18,8 +18,8 @@ This repository contains the implementation of a Hospital Management System, inc
 
 7. Write Delete Queries
 
-   To delete existing data from all tables.
+   To delete any existing data from all tables.
 
 8. Write Update Queries
 
-   To update existing data in all tables.
+   To update any existing data in all tables.
